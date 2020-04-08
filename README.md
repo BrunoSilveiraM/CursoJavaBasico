@@ -1,2 +1,2 @@
 # CursoJavaBasico
-Conteúdo Aprendi no Curso Java Basico Loiane Groner
+Conteúdo Aprendido no Curso Java Basico Loiane Groner
